@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+  /*  public static void main(String[] args) {
         MyLinkedListQueue myLinkedListQueue = new MyLinkedListQueue();
         myLinkedListQueue.push(1);
         myLinkedListQueue.push(2);
@@ -13,5 +13,5 @@ public class Main {
         myLinkedListQueue.pop();
         myLinkedListQueue.pop();
         myLinkedListQueue.print();
-    }
+    }*/
 }
